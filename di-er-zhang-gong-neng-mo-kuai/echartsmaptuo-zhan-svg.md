@@ -2,8 +2,18 @@
 
 ## 使用简介
 
-1. 在`app/echarts-map/echarts-map.component.css`中定义需要渲染地图页面的`div`的类
-2. 当页
+* 在`app/echarts-map/echarts-map.component.css`中定义需要渲染地图页面的`div`的类-
 
- 
+* 当前`html`中:
+
+\`\`\`
+
+&lt;angular-echarts-map\[option\]="option" \[svg\]="svgRoute" \[selector\]="echartMapArea" \(clickCallBack\)="mapClickCallBack\($event\)"&gt;&lt;/angular-echarts-map&gt;
+
+\`\`\`
+
+* 
+sss
+
+
 
