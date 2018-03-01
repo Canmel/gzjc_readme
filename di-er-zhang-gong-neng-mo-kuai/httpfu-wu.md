@@ -37,5 +37,9 @@ this.httpService.get(Urls.USERS, {
 
 ### HttpService 方法
 
-get
+```
+get(url: string, params: any): Promise < Object >
+```
+
+
 
