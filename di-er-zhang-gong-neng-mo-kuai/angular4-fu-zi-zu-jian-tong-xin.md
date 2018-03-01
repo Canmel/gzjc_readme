@@ -10,5 +10,5 @@
 <angular-pagination [pageSize]="pageSize" [totalNum]="totalCount" [curPage]="curPage" [totalPage]="totalPage" (changeCurPage)="getPageData($event)"></angular-pagination>
 ```
 
-标签名： angular-pagination // 子标签
+标签名： angular-pagination // 子标签  selector
 
