@@ -13,7 +13,7 @@
 
 ```
 export class HomeComponent implements OnInit {
-    public chart;
+    public chart: object;
 
     constructor() {}
 
