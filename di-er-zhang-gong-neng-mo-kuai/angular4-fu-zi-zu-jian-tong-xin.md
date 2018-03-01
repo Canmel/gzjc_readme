@@ -47,12 +47,10 @@ export class XxxxComponent implements OnInit {
     @Input('curPage') curPage;
 
     @Output() changeCurPage: EventEmitter < Number > = new EventEmitter;
-    
-    constructor() {
-        let vm = this;
-    }
 
-	ngOnInit() {}
+    constructor() {}
+
+    ngOnInit() {}
 }
 ```
 
