@@ -11,5 +11,9 @@
 
 * 在`ts`中定义这些需要传递的参数
 
+```
+export class HomeComponent implements OnInit {}
+```
+
 
 
