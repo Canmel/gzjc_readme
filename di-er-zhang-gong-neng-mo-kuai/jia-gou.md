@@ -22,7 +22,7 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 
 安装`cnpm`,国内直接装经常会出问题，所以设置为淘宝镜像地址会更好。
 
-> npm install -g cnpm --registry=https://registry.npm.taobao.org
+> npm install -g cnpm --registry=[https://registry.npm.taobao.org](https://registry.npm.taobao.org)
 
-
+若安装失败后重新安装先清除缓存
 
