@@ -11,7 +11,7 @@
 
 * 在`ts`中定义这些需要传递的参数
 
-```
+```js
 export class HomeComponent implements OnInit {
     public chart: object;
 
