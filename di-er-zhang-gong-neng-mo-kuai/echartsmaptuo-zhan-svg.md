@@ -11,7 +11,7 @@
 </angular-echarts-map>
 ```
 
-* 在当前`component`中可以做到
+* 在当前`component`中定义 \`option\`
 
 
 
