@@ -6,5 +6,9 @@
 
 1. 在要使用的组件的ts中导入HttpService
 
+```
+import { HttpService } from '../service/http.service';
+```
+
 
 
