@@ -8,5 +8,9 @@ Ubuntu
 
 > apt-get install git
 
+Mac
+
+> brew install git
+
 
 
