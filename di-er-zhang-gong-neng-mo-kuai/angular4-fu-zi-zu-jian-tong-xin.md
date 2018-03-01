@@ -58,7 +58,7 @@ export class XxxxComponent implements OnInit {
 }
 ```
 
-父组件Html: \(changeCurPage\)="getPageData\($event\)" 使得在父组件中的getPageData方法可以获得子组件传递的参数信息
+父组件Html: \(changeCurPage\)="getPageData\($event\)" 使得在父组件中的`getPageData`方法可以获得子组件传递的参数信息`$event`
 
 ```html
 <angular-pagination [curPage]="curPage" (changeCurPage)="getPageData($event)"></angular-pagination>
