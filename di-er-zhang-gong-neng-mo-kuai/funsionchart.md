@@ -27,5 +27,7 @@ export class HomeComponent implements OnInit {
 
 ### 至此已经可以渲染一个简单的Funsionchart的图标
 
+关于FunsionChart的详细配置信息，请前往官网查看详细配置
+
 
 
