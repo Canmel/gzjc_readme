@@ -19,6 +19,8 @@ export class HomeComponent implements OnInit {
 
     ngOnInit(): void {
         // 初始化图表的参数信息
+        this.chart = {};
+        ...
     }
 }
 ```
