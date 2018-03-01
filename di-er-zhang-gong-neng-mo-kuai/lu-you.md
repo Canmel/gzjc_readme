@@ -18,10 +18,10 @@
 
 定义一个路由`app-routing.module.ts`中：
 
-```
+```js
 {
-		path: 'maps',
-		component: BaiduMapComponent
+        path: 'maps',
+        component: BaiduMapComponent
 }
 ```
 
