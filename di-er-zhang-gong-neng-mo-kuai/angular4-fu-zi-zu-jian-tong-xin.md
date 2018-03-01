@@ -58,11 +58,17 @@ export class XxxxComponent implements OnInit {
 }
 ```
 
-父组件Html:
+父组件Html: \(changeCurPage\)="getPageData\($event\)"
 
 ```html
 <angular-pagination [curPage]="curPage" (changeCurPage)="getPageData($event)"></angular-pagination>
 ```
+
+
+
+
+
+
 
 
 
