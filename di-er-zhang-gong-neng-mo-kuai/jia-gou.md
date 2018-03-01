@@ -53,6 +53,8 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 > ng g e enumName             // 新建枚举    ng generate enum enumName
 >
 > ng g d directiveName        // 新建指令    ng generate directive directiveName
+>
+> ng g p pipeNmae               // 新建管道    ng generate pipe pipeName
 
 
 
