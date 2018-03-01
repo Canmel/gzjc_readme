@@ -40,6 +40,7 @@ this.httpService.get(Urls.USERS, {
 ```
 get(url: string, params: any): Promise < Object >
 post(url: string, params: any): Promise < Object >
+put(url: string, params: any): Promise < Object >
 ```
 
 
