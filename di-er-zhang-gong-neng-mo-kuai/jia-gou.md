@@ -12,5 +12,5 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 
 #### 安装Node.js {#一安装nodejs}
 
-
+官方网址：https://nodejs.org/en/download/
 
