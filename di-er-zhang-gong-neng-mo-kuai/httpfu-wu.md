@@ -31,7 +31,7 @@ constructor(private httpService: HttpService) {}
 
 ```js
 this.httpService.get(Urls.USERS, {
-            pageNo: pageNo
+    pageNo: pageNo
 });
 ```
 
