@@ -25,11 +25,7 @@ Windows
 > ~ git config --global user.email test@runoob.com
 > ```
 
-### 拉取远程代码
+### 
 
-在本地代码库clone远程代码
 
-> ~ git clone [http://192.168.2.135:8082/xxxx/xxxx.git](http://192.168.2.135:8082/xxxx/xxxx.git)
-
-至此本地文件系统有了本系统代码
 
