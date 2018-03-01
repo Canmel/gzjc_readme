@@ -20,7 +20,7 @@ export class XxxxComponent implements OnInit {
     public option; // Echarts 生成规则
 
     constructor() {
-    
+        
     }
 }
 ```
