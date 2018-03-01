@@ -41,6 +41,15 @@ this.httpService.get(Urls.USERS, {
 get(url: string, params: any): Promise < Object >
 post(url: string, params: any): Promise < Object >
 put(url: string, params: any): Promise < Object >
+delete(url: string, params: any): Promise < Object >
+```
+
+### HttpService 请求异常
+
+以上请求异常会调用
+
+```
+private handleError(error: any): Promise < any >
 ```
 
 
