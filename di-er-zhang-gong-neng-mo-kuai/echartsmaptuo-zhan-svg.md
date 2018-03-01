@@ -21,7 +21,7 @@ export class XxxxComponent implements OnInit {
 
     constructor() {
         // 初始化
-        
+        ...
     }
 }
 ```
