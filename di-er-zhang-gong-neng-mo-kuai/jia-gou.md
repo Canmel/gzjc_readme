@@ -42,7 +42,5 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 
 > ng serve  // 默认端口 4200
 
-
-
-
+`angular-cli`命令
 
