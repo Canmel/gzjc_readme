@@ -10,14 +10,14 @@
 import { HttpService } from '../service/http.service';
 ```
 
-* 在要使用的组件的ts中添加`providers`
+* 在要使用的组件ts中添加`providers`
 
-```
+```js
 @Component({
-	selector: 'angular-users',
-	templateUrl: './users.component.html',
-	styleUrls: ['./users.component.css'],
-	providers: [UserService, ErrorFormTipsService, HttpService, LoggerService]
+    selector: 'angular-users',
+    templateUrl: './users.component.html',
+    styleUrls: ['./users.component.css'],
+    providers: [UserService, ErrorFormTipsService, HttpService, LoggerService]
 })
 ```
 
