@@ -46,7 +46,7 @@ delete(url: string, params: any): Promise < Object >
 
 ### HttpService 请求异常
 
-以上请求异常会调用
+以上请求异常会调用,集中处理
 
 ```
 private handleError(error: any): Promise < any >
