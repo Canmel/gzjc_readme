@@ -10,4 +10,5 @@
   * [EchartsMap拓展SVG](di-er-zhang-gong-neng-mo-kuai/echartsmaptuo-zhan-svg.md)
   * [分页组件](di-er-zhang-gong-neng-mo-kuai/fen-ye-cha-jian.md)
   * [FunsionChart](di-er-zhang-gong-neng-mo-kuai/funsionchart.md)
+  * [Angular4 父子组件通信](di-er-zhang-gong-neng-mo-kuai/angular4-fu-zi-zu-jian-tong-xin.md)
 
