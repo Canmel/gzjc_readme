@@ -18,11 +18,11 @@ export class XxxxComponent implements OnInit {
     public curPage; // 当前页码
 
     constructor() {
-        
+
     }
     ngOnInit() {
         // 获取数据
-        // 初始化上面的
+        // 初始化上面的分页参数
         
     }
 }
