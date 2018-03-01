@@ -64,7 +64,5 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 * src  应用代码位于`src`文件夹中
 * e2e 点对点测试
 
-其他目录信息可在 https://www.angular.cn/guide/quickstart\#src
-
-
+其他目录信息可在 [https://www.angular.cn/guide/quickstart\#src](https://www.angular.cn/guide/quickstart#src) 中查看
 
