@@ -18,7 +18,7 @@
 
 ```js
 export class UsersComponent implements OnInit {
-    public curPage = 1;
+    public curPage = 1;    // 在父组件中定义
     constructor() {}
     ngOnInit() {}
 }
