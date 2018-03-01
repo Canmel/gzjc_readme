@@ -40,6 +40,7 @@ export class XxxxComponent implements OnInit {
         ...
     }
     
+    // 回调函数
     mapClickCallBack(){
     }
 }
