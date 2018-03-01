@@ -21,7 +21,7 @@
 ```js
 {
         path: 'maps',        // 路径名称
-        component: BaiduMapComponent
+        component: BaiduMapComponent        // 组件类型名称
 }
 ```
 
