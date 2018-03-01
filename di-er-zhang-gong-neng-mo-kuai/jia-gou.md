@@ -8,5 +8,7 @@
 
 #### 配置
 
+Angular的开发环境配置Angular 需要Node和
+
 
 
