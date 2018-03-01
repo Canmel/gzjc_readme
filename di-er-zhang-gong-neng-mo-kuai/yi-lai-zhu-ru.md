@@ -10,14 +10,12 @@
 
 * 在要注入的组件或服务
 
-```
+```js
 import {Injectable} from "@angular/core";
 @Injectable()
 export class LoggerService {
 }
 ```
-
->
 
 * 构造函数中注入所依赖服务
 
