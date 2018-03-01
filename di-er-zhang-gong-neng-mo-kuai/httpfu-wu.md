@@ -23,5 +23,17 @@ import { HttpService } from '../service/http.service';
 
 * 在`constructor`中添加`httpService`
 
+```js
+constructor(private httpService: HttpService) {}
+```
+
+* 使用
+
+```
+return this.httpService.get(Urls.USERS, {
+			pageNo: pageNo
+		});
+```
+
 
 
