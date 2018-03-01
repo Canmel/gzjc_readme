@@ -21,5 +21,7 @@ import { HttpService } from '../service/http.service';
 })
 ```
 
+* 在constructor中添加httpService
+
 
 
