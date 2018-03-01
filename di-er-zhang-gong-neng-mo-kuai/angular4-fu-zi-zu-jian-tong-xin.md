@@ -20,9 +20,7 @@
 export class UsersComponent implements OnInit {
     public curPage = 1;
 
-    constructor() {
-        
-    }
+    constructor() {}
 }
 ```
 
