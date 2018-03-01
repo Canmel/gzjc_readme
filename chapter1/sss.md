@@ -27,5 +27,9 @@ Windows
 
 ### 拉取远程代码
 
+clone
+
+> ~ git clone http://192.168.2.135:8082/xxxx/xxxx.git
+
 
 
