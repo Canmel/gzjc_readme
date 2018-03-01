@@ -61,7 +61,7 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 ### 文件结构
 
 * node\_moudles  `package.json`中列举的所有第三方模块都放在其中
-* src
+* src  应用代码位于`src`文件夹中
 * e2e 点对点测试
 
 
