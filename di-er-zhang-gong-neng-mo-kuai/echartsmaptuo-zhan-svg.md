@@ -7,13 +7,13 @@
 * 当前`html`中:
 
 ```html
-<angular-echarts-map [option]="option" [svg]="svgRoute" [selector]="echartMapArea" (clickCallBack)="mapClickCallBack($event)">
+<angular-echarts-map [option]="option" [svg]="svgRoute" [selector]="echartMapArea">
 </angular-echarts-map>
 ```
 
 * 在当前`component`中定义 `option`, `svg` 和选择器 `id`
 
-```
+```js
 export class XxxxComponent implements OnInit {
     public svgRoute = "assets/svg/ningbo.svg";    // svg的路径
     public echartMapArea = "echarts-render-area";  // 提供给js的ID选择器,单页面内不重复即可
@@ -29,7 +29,7 @@ export class XxxxComponent implements OnInit {
 * 至此地图基本渲染完成
 * 设置地图点击事件回调函数
 
-```
+```js
 export class XxxxComponent implements OnInit {
     public svgRoute = "assets/svg/ningbo.svg";    // svg的路径
     public echartMapArea = "echarts-render-area";  // 提供给js的ID选择器,单页面内不重复即可
@@ -39,7 +39,7 @@ export class XxxxComponent implements OnInit {
         // 初始化
         ...
     }
-    
+
     // 回调函数
     mapClickCallBack(){
     }
