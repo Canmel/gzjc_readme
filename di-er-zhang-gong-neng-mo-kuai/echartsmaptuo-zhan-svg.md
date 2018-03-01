@@ -11,7 +11,7 @@
 </angular-echarts-map>
 ```
 
-* 在当前component中可以
+* 在当前`component`中可以
 
 
 
