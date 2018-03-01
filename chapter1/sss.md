@@ -16,11 +16,16 @@ Windows
 
 安装包下载地址： [http://msysgit.github.io/](http://msysgit.github.io/)
 
-
-
 ### Git配置
 
-### 用户信息
+用户信息
+
+> ```
+> ~ git config --global user.name "runoob"
+> ~ git config --global user.email test@runoob.com
+> ```
+
+>
 
 
 
