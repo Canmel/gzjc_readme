@@ -11,7 +11,7 @@
 * 在当前组件`ts`中添加
 
 ```
-export class UsersComponent implements OnInit {
+export class XxxxComponent implements OnInit {
     public totalCount; // 总数据条数
     public pageSize; // 每页数据条数
     public totalPage; // 总页数
