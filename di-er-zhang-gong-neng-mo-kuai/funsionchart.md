@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
     constructor() {}
 
     ngOnInit(): void {
-        
+        // 初始化这个
     }
 }
 ```
