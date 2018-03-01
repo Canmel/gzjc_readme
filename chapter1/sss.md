@@ -4,6 +4,8 @@
 
 ### Git安装
 
+Ubuntu
+
 > apt-get install git
 
 
