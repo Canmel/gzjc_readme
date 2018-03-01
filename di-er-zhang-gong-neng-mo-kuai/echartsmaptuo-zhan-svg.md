@@ -46,7 +46,7 @@ export class XxxxComponent implements OnInit {
 }
 ```
 
-* 其他关于`echart`的操作信息请前往官网示例 http://echarts.baidu.com/echarts2/doc/example.html
+* 其他关于`echart`的操作信息请前往官网示例 [http://echarts.baidu.com/echarts2/doc/example.html](http://echarts.baidu.com/echarts2/doc/example.html)
 
 
 
