@@ -15,7 +15,17 @@
 export class HomeComponent implements OnInit {
 
     constructor() {}
-
+    
+    ngOnInit(): void {
+		this.getColumn2dData();
+		this.getMscombi2dData();
+		this.getColumn3dData();
+		this.getMscombi3dData();
+		this.getPie2dData();
+		this.getPie3dData();
+		this.getLine2dData();
+		this.getLine3dData();
+	}
 }
 ```
 
