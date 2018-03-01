@@ -33,5 +33,5 @@ export class HomeComponent implements OnInit {
 
 网查看详细配置
 
-funsioncharthttps://www.fusioncharts.com/
+funsionchart： [https://www.fusioncharts.com/](https://www.fusioncharts.com/)
 
