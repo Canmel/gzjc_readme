@@ -11,6 +11,14 @@
 * 在要注入的组件或服务
 
 > import {Injectable} from "@angular/core";
+>
+> @Injectable\(\) 
+>
+> export class LoggerService {
+>
+> }
+
+
 
 
 
