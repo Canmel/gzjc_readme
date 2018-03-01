@@ -58,5 +58,7 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 >
 > ng g m mouduleName      // 新建模块    ng generate module moduleName
 
+### 文件结构
+
 
 
