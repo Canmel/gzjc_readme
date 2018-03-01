@@ -14,3 +14,7 @@ Mac
 
 Windows
 
+安装包下载地址： [http://msysgit.github.io/](http://msysgit.github.io/)
+
+
+
