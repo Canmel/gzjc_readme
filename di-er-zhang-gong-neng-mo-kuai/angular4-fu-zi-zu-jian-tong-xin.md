@@ -4,7 +4,7 @@
 
 ## 父组件向子组件传入数据 – @Input {#父组件向子组件传入数据-input}
 
-#### 父组件html
+父组件html
 
 ```html
 <angular-pagination [curPage]="curPage" (changeCurPage)="getPageData($event)"></angular-pagination>
