@@ -12,13 +12,25 @@
 
 > import {Injectable} from "@angular/core";
 >
-> @Injectable\(\) 
+> @Injectable\(\)
 >
 > export class LoggerService {
 >
 > }
 
 
+
+* 构造函数中注入所依赖服务
+
+```
+export class ContactService{
+  //构造函数中注入所依赖服务
+  constructor(private _logger:LoggerService){}
+  getCollections(){
+    this._logger.log('获取联系人...')
+  }
+}
+```
 
 
 
