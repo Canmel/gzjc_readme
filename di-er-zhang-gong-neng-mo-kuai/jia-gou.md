@@ -44,7 +44,7 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 
 #### `angular-cli`命令
 
-> ng g c className // 新建组件 ng generate component my-new-class
+> ng g c componentName // 新建组件 ng generate component my-new-class
 
 
 
