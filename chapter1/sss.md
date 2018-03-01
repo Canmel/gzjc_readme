@@ -25,7 +25,7 @@ Windows
 > ~ git config --global user.email test@runoob.com
 > ```
 
-### 拉取远程峰值
+### 拉取远程代码
 
 
 
