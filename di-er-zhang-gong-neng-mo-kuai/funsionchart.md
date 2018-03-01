@@ -25,5 +25,7 @@ export class HomeComponent implements OnInit {
 }
 ```
 
+### 至此已经可以渲染一个简单的Funsionchart的图标
+
 
 
