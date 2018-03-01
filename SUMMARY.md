@@ -7,4 +7,5 @@
   * [使用Git开发提示](chapter1/gitshi-yong-gui-fan.md)
 * [第二章 功能模块](di-er-zhang-gong-neng-mo-kuai.md)
   * [架构](di-er-zhang-gong-neng-mo-kuai/jia-gou.md)
+  * [EchartsMap拓展SVG](di-er-zhang-gong-neng-mo-kuai/echartsmaptuo-zhan-svg.md)
 
