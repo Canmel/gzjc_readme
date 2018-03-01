@@ -30,7 +30,7 @@ export class UsersComponent implements OnInit {
 import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
 
 ...
-export class PaginationComponent implements OnInit {
+export class XxxxComponent implements OnInit {
 
 }
 ```
