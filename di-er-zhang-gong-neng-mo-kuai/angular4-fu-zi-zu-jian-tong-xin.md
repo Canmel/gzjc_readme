@@ -28,6 +28,11 @@ export class UsersComponent implements OnInit {
 
 ```js
 import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
+
+...
+export class PaginationComponent implements OnInit {
+
+}
 ```
 
 
