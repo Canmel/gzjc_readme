@@ -31,7 +31,5 @@ Windows
 
 > ~ git clone [http://192.168.2.135:8082/xxxx/xxxx.git](http://192.168.2.135:8082/xxxx/xxxx.git)
 
-
-
-至此本地
+至此本地文件系统有了系统代码
 
