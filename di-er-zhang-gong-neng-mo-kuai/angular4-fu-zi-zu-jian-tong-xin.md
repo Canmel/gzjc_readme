@@ -31,7 +31,7 @@ import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
 
 ...
 export class XxxxComponent implements OnInit {
-    
+    @Input('totalNum') totalNum;
 }
 ```
 
