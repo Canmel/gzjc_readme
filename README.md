@@ -1,4 +1,12 @@
-# 故障检测系统前端部分
+# 项目介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+该项目为故障检测系统前端页面系统
+
+基本架构为 `Angular4 `，\`Jquery\`, \`BootStrap\`
+
+
+
+
+
+
 
