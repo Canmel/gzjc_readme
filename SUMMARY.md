@@ -8,4 +8,5 @@
 * [第二章 功能模块](di-er-zhang-gong-neng-mo-kuai.md)
   * [架构](di-er-zhang-gong-neng-mo-kuai/jia-gou.md)
   * [EchartsMap拓展SVG](di-er-zhang-gong-neng-mo-kuai/echartsmaptuo-zhan-svg.md)
+  * [分页组件](di-er-zhang-gong-neng-mo-kuai/fen-ye-cha-jian.md)
 
