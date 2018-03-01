@@ -64,5 +64,5 @@ export class XxxxComponent implements OnInit {
 <angular-pagination [curPage]="curPage" (changeCurPage)="getPageData($event)"></angular-pagination>
 ```
 
-
+在父组件ts中定义一个方法，方法名为在html中定义的方法名getPageData，该方法可以得到子组件传递来的参数
 
