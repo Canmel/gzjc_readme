@@ -2,9 +2,9 @@
 
 ## HTTP使用简介
 
-封装好的Http服务在app/service/http.service.ts中
+封装好的`Http`服务在`app/service/http.service.ts`中
 
-* 在要使用的组件或服务的的ts中导入HttpService
+* 在要使用的组件或服务的的ts中导入`HttpService`
 
 ```js
 import { HttpService } from '../service/http.service';
