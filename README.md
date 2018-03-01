@@ -4,3 +4,5 @@
 
 基本架构为 `Angular4`，`Jquery` ,  `BootStrap`
 
+引入图标插件 `FunsionChart` 和 `Echarts`
+
