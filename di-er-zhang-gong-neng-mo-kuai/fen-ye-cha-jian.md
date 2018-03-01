@@ -16,6 +16,13 @@ export class UsersComponent implements OnInit {
     public pageSize; // 每页数据条数
     public totalPage; // 总页数
     public curPage; // 当前页码
+    
+    constructor(private activateInfo: ActivatedRoute, private userService: UserService, private errorFormTipsService: ErrorFormTipsService,
+		private httpService: HttpService, private loggerService: LoggerService) {
+		this.curPage = 1;
+		this.entity = new User;
+		this.loggerService.logDebug('loaded User');
+    }
 }
 ```
 
