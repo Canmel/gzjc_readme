@@ -10,7 +10,7 @@
 
 * 在当前组件`ts`中添加
 
-```
+```js
 export class XxxxComponent implements OnInit {
     public totalCount; // 总数据条数
     public pageSize; // 每页数据条数
