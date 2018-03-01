@@ -66,3 +66,17 @@ export class XxxxComponent implements OnInit {
 
 在父组件ts中定义一个方法，方法名为在`html`中定义的方法名`getPageData`，该方法可以得到子组件传递来的参数
 
+```js
+...
+getPageData(pageNo: number) {
+    // 这里可以获取到传递来的参数了
+}
+...
+```
+
+
+
+
+
+
+
