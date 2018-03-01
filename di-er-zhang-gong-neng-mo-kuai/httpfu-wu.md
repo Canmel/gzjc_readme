@@ -6,7 +6,7 @@
 
 * 在要使用的组件或服务的的ts中导入HttpService
 
-```
+```js
 import { HttpService } from '../service/http.service';
 ```
 
@@ -17,7 +17,7 @@ import { HttpService } from '../service/http.service';
     selector: 'angular-users',
     templateUrl: './users.component.html',
     styleUrls: ['./users.component.css'],
-    providers: [UserService, ErrorFormTipsService, HttpService, LoggerService]
+    providers: [HttpService, LoggerService]
 })
 ```
 
