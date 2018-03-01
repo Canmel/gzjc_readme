@@ -15,7 +15,9 @@
 
 ```
 export class XxxxComponent implements OnInit {
-
+    public svgRoute = "assets/svg/ningbo.svg";
+    public echartMapArea = "echarts-render-area";
+    public option;
 
 }
 ```
