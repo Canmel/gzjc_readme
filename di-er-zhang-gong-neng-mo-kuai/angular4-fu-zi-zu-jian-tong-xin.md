@@ -17,7 +17,10 @@
 通过以上方式将参数信息传递到子组件，具体的父组件中的属性值需要在父组件ts文件中创建：
 
 ```
-public curPage = 1; 
+export class UsersComponent implements OnInit {
+public curPage = 1;
+
+}
 ```
 
 
