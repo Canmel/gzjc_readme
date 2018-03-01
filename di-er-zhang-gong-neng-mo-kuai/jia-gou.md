@@ -50,7 +50,11 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 >
 > ng g s serviceName          // 新建服务   ng generate service serviceName
 >
+> ng g e enumName
+>
 > -new
+>
+> -enum
 >
 > -service
 
