@@ -24,8 +24,8 @@ export class XxxxComponent implements OnInit {
         // 获取数据
         // 初始化上面的分页参数
     }
-    
-    // 回到
+
+    // 回调
     getPageData(pageNo){
     }
 }
