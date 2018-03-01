@@ -18,7 +18,7 @@
 
 ```
 export class UsersComponent implements OnInit {
-public curPage = 1;
+    public curPage = 1;
 
 }
 ```
