@@ -50,7 +50,9 @@ export class XxxxComponent implements OnInit {
 
     constructor() {}
 
-    ngOnInit() {}
+    ngOnInit() {
+    
+    }
 }
 ```
 
