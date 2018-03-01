@@ -13,5 +13,12 @@
 
 * 在当前`component`中定义 `option`, `svg` 和选择器 `id`
 
+```
+export class BaiduMapComponent implements OnInit {
+
+
+}
+```
+
 
 
