@@ -12,10 +12,10 @@
 
 ```
 export class UsersComponent implements OnInit {
-	public totalCount = 33; // 总数据条数
-	public pageSize = 10; // 每页数据条数
-	public totalPage = 4; // 总页数
-	public curPage = 1; // 当前页码
+    public totalCount; // 总数据条数
+    public pageSize; // 每页数据条数
+    public totalPage; // 总页数
+    public curPage; // 当前页码
 }
 ```
 
