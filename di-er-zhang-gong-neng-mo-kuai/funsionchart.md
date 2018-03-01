@@ -13,11 +13,12 @@
 
 ```
 export class HomeComponent implements OnInit {
-
+    public chart
+    
     constructor() {}
 
     ngOnInit(): void {
-       
+
     }
 }
 ```
