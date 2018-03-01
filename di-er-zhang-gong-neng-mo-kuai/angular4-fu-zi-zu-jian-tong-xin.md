@@ -7,7 +7,7 @@
 #### 父组件html
 
 ```html
-<angular-pagination [pageSize]="pageSize" (changeCurPage)="getPageData($event)"></angular-pagination>
+<angular-pagination [curPage]="curPage" (changeCurPage)="getPageData($event)"></angular-pagination>
 ```
 
 标签名： angular-pagination // 子标签  selector
