@@ -22,6 +22,7 @@ export class XxxxComponent implements OnInit {
         this.entity = new User;
         this.loggerService.logDebug('loaded User');
     }
+    ngOnInit() {}
 }
 ```
 
