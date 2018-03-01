@@ -20,10 +20,8 @@
 export class UsersComponent implements OnInit {
     public curPage = 1;
     constructor() {
-		this.curPage = 1;
-		this.entity = new User;
-		this.loggerService.logDebug('loaded User');
-	}
+        
+    }
 }
 ```
 
