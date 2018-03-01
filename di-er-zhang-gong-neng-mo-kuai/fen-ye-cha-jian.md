@@ -23,7 +23,6 @@ export class XxxxComponent implements OnInit {
     ngOnInit() {
         // 获取数据
         // 初始化上面的分页参数
-        
     }
 }
 ```
