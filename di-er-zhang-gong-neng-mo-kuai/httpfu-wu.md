@@ -37,7 +37,7 @@ this.httpService.get(Urls.USERS, {
 
 ### HttpService 方法
 
-```
+```js
 get(url: string, params: any): Promise < Object >
 post(url: string, params: any): Promise < Object >
 put(url: string, params: any): Promise < Object >
@@ -48,7 +48,7 @@ delete(url: string, params: any): Promise < Object >
 
 以上请求异常会调用,集中处理
 
-```
+```js
 private handleError(error: any): Promise < any >
 ```
 
