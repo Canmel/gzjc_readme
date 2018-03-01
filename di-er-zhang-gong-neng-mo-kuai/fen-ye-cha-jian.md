@@ -18,11 +18,13 @@ export class XxxxComponent implements OnInit {
     public curPage; // 当前页码
 
     constructor() {
-        this.curPage = 1;
-        this.entity = new User;
-        this.loggerService.logDebug('loaded User');
+        
     }
-    ngOnInit() {}
+    ngOnInit() {
+        // 获取数据
+        // 初始化上面的
+        
+    }
 }
 ```
 
