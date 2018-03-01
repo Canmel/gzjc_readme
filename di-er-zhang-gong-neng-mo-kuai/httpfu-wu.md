@@ -10,7 +10,7 @@
 import { HttpService } from '../service/http.service';
 ```
 
-* 在要使用的组件ts中添加`providers`
+* 在要使用的组件ts中添加`providers`或服务中直接导入
 
 ```js
 @Component({
