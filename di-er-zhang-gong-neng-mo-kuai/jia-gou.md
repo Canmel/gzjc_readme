@@ -29,8 +29,8 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 > npm uninstall -g @angular/cli   //卸载angular/cli /
 >
 > npm cache clean  //清除缓存
-
+>
 > cnpm install -g @angular/cli    //重新安装
 
-
+检查cli是否安装成功
 
