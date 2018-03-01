@@ -16,5 +16,7 @@
 </html>
 ```
 
-定义一个路由
+定义一个路由`app-routing.module.ts`中：
+
+
 
