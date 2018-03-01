@@ -18,5 +18,12 @@
 
 定义一个路由`app-routing.module.ts`中：
 
+```
+{
+		path: 'maps',
+		component: BaiduMapComponent
+}
+```
+
 
 
