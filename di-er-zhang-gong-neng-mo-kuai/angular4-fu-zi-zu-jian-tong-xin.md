@@ -24,7 +24,7 @@ export class UsersComponent implements OnInit {
 }
 ```
 
-子组件ts导入Input装饰圈
+子组件ts导入Input
 
 ```js
 import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
