@@ -33,7 +33,7 @@ export class ContactService{
 * 在组件providers元数据中注册服务
 
 ```
-//在组件的providers元数据中注册服务
+
 providers:[LoggerService,ContactService]
 ```
 
