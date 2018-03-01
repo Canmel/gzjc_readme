@@ -8,7 +8,5 @@
 
 #### 配置
 
-Angular的开发环境配置Angular 需要Node和
-
-
+Angular的开发环境配置需要`Node.js`和npm的支持
 
