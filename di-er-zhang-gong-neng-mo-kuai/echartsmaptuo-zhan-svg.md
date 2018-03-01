@@ -6,14 +6,13 @@
 
 * 当前`html`中:
 
+```
+<angular-echarts-map[option]="option" [svg]="svgRoute" [selector]="echartMapArea" (clickCallBack)="mapClickCallBack($event)"></angular-echarts-map>
+```
+
 \`\`\`
 
-&lt;angular-echarts-map\[option\]="option" \[svg\]="svgRoute" \[selector\]="echartMapArea" \(clickCallBack\)="mapClickCallBack\($event\)"&gt;&lt;/angular-echarts-map&gt;
-
-\`\`\`
-
-* 
-sss
+* sss
 
 
 
