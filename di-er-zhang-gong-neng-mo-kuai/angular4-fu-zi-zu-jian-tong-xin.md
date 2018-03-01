@@ -26,3 +26,9 @@ export class UsersComponent implements OnInit {
 
 子组件ts
 
+```js
+import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
+```
+
+
+
