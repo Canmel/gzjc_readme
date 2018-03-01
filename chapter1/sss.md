@@ -27,9 +27,11 @@ Windows
 
 ### 拉取远程代码
 
-clone
+在本地代码库clone远程代码
 
-> ~ git clone http://192.168.2.135:8082/xxxx/xxxx.git
+> ~ git clone [http://192.168.2.135:8082/xxxx/xxxx.git](http://192.168.2.135:8082/xxxx/xxxx.git)
 
 
+
+至此本地
 
