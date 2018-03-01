@@ -11,7 +11,7 @@
 </angular-echarts-map>
 ```
 
-* 在当前`component`中定义 \`option\`
+* 在当前`component`中定义 `option`, `svg` 和选择器 `id`
 
 
 
