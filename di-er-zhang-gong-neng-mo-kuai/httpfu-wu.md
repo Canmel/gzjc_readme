@@ -29,10 +29,10 @@ constructor(private httpService: HttpService) {}
 
 * 使用
 
-```
-return this.httpService.get(Urls.USERS, {
-			pageNo: pageNo
-		});
+```js
+this.httpService.get(Urls.USERS, {
+            pageNo: pageNo
+});
 ```
 
 
