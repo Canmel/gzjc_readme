@@ -17,10 +17,12 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 #### 安装Angular CLI 脚手架工具 {#二全局安装angular-cli-脚手架工具}
 
 * 使用npm安装
+* > npm install -g @angular/cli
 
 > npm install -g @angular/cli
 
-* 安装cnpm
+* 安装`cnpm`,国内直接装经常会出问题，所以设置为淘宝镜像地址会更好。
+  》 
 
 
 
