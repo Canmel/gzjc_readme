@@ -20,7 +20,7 @@
 
 ```js
 {
-        path: 'maps',
+        path: 'maps',        // 路径名称
         component: BaiduMapComponent
 }
 ```
