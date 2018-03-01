@@ -17,7 +17,7 @@ import { HttpService } from '../service/http.service';
     selector: 'angular-users',
     templateUrl: './users.component.html',
     styleUrls: ['./users.component.css'],
-    providers: [HttpService,]
+    providers: [HttpService]
 })
 ```
 
