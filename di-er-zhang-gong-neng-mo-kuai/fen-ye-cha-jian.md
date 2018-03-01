@@ -10,5 +10,14 @@
 
 * 在当前组件`ts`中添加
 
+```
+export class UsersComponent implements OnInit {
+	public totalCount = 33; // 总数据条数
+	public pageSize = 10; // 每页数据条数
+	public totalPage = 4; // 总页数
+	public curPage = 1; // 当前页码
+}
+```
+
 
 
