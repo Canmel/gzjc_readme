@@ -27,7 +27,7 @@ export class XxxxComponent implements OnInit {
 ```
 
 * 至此地图基本渲染完成
-* 设置地图点击事件回调
+* 设置地图点击事件回调函数
 
 
 
