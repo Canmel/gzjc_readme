@@ -6,5 +6,11 @@
 
 #### 父组件html
 
+```html
+<angular-pagination [pageSize]="pageSize" [totalNum]="totalCount" [curPage]="curPage" [totalPage]="totalPage" (changeCurPage)="getPageData($event)"></angular-pagination>
+```
+
+
+
 
 
