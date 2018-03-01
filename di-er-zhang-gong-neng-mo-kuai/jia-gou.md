@@ -44,13 +44,15 @@ Angular的开发环境配置需要`Node.js`和`npm`的支持,首先需要安装`
 
 #### `angular-cli`命令
 
-> ng g c componentName   // 新建组件   ng generate component componentName
+> ng g c componentName   // 新建组件    ng generate component componentName
 >
 > ng g cl className            // 新建class   ng generate class className
 >
-> ng g s serviceName          // 新建服务   ng generate service serviceName
+> ng g s serviceName          // 新建服务    ng generate service serviceName
 >
-> ng g e enumName             // 新建枚举
+> ng g e enumName             // 新建枚举   
+>
+> ng g d directiveName        // 新建指令    ng generate directive directiveName
 
 
 
