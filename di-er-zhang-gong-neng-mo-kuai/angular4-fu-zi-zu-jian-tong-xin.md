@@ -12,5 +12,5 @@
 
 标签名： angular-pagination // 子标签  selector
 
-
+属性： \[pageSize\]="pageSize" ==&gt; \[子组件属性\]
 
