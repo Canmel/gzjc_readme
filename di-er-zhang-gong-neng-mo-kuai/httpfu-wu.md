@@ -4,7 +4,7 @@
 
 封装好的Http服务在app/service/http.service.ts中
 
-* 在要使用的组件的ts中导入HttpService
+* 在要使用的组件或服务的的ts中导入HttpService
 
 ```
 import { HttpService } from '../service/http.service';
