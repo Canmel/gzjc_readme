@@ -12,5 +12,5 @@ Mac
 
 > brew install git
 
-
+Windows
 
