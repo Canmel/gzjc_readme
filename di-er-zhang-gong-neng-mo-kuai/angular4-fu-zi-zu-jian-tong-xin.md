@@ -51,7 +51,7 @@ export class XxxxComponent implements OnInit {
     constructor() {}
 
     ngOnInit() {
-    
+        this.changeCurPage.emit("即将传递的参数")
     }
 }
 ```
