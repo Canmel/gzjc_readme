@@ -6,7 +6,7 @@
 
 ```html
 <html>
-    <head>
+  <head>
     <base href="/">
     <title>Application</title>
   </head>
