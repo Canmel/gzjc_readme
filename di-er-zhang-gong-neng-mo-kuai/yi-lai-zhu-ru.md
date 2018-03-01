@@ -18,11 +18,9 @@
 >
 > }
 
-
-
 * 构造函数中注入所依赖服务
 
-```
+```js
 export class ContactService{
   //构造函数中注入所依赖服务
   constructor(private _logger:LoggerService){}
