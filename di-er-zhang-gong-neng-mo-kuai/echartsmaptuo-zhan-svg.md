@@ -15,8 +15,8 @@
 
 ```
 export class XxxxComponent implements OnInit {
-    public svgRoute = "assets/svg/ningbo.svg";    // 这是svg的路径
-    public echartMapArea = "echarts-render-area";
+    public svgRoute = "assets/svg/ningbo.svg";    // svg的路径
+    public echartMapArea = "echarts-render-area";  
     public option;
 
 }
