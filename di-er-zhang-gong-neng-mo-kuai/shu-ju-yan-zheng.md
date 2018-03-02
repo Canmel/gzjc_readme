@@ -4,7 +4,7 @@
 
 ## 数据验证简介
 
-数据验证使用的是BootStraop Validator 插件。详细使用规范请前往bootStrap官网API查看
+数据验证使用的是`BootStraop Validator` 插件。详细使用规范请前往`bootStrap`官网API查看
 
 ### 使用步骤
 
