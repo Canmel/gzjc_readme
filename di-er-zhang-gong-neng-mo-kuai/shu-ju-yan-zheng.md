@@ -67,5 +67,9 @@ export const USERVALIDRULE: Object = {
 
 * 添加完验证规则后需要在待验证的ts中导入相应的规则
 
+```js
+import { USERVALIDRULE } from '../entity/user';
+```
+
 
 
