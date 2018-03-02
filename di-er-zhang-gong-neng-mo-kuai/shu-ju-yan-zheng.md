@@ -77,6 +77,7 @@ import { USERVALIDRULE } from '../entity/user';
 $(".to-valid-form").bootstrapValidator(USERVALIDRULE);
 ```
 
-* 
+
+
 
 
