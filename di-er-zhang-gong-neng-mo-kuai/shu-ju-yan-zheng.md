@@ -79,5 +79,13 @@ $(".to-valid-form").bootstrapValidator(USERVALIDRULE);
 
 * 在表单$\(".to-valid-form"\)中就可以实时的以规则USERVALIDRULE验证数据的准确性
 
+* 手动触发验证
+
+```js
+$(".to-valid-form").data('bootstrapValidator').validate();
+```
+
+* 验证是否通过
+
 
 
