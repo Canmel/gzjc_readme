@@ -41,9 +41,7 @@ export class XxxxComponent implements OnInit {
 }
 ```
 
-## --- {#子组件通知父组件数据已处理完成-outputeventemitter}
-
-
+---
 
 ## 子组件通知父组件数据已处理完成 – @Output、EventEmitter {#子组件通知父组件数据已处理完成-outputeventemitter}
 
