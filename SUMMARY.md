@@ -14,4 +14,5 @@
   * [HTTP服务](di-er-zhang-gong-neng-mo-kuai/httpfu-wu.md)
   * [Angular路由](di-er-zhang-gong-neng-mo-kuai/lu-you.md)
   * [依赖注入](di-er-zhang-gong-neng-mo-kuai/yi-lai-zhu-ru.md)
+  * [数据验证](di-er-zhang-gong-neng-mo-kuai/shu-ju-yan-zheng.md)
 
