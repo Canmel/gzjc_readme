@@ -41,6 +41,10 @@ export class XxxxComponent implements OnInit {
 }
 ```
 
+## --- {#子组件通知父组件数据已处理完成-outputeventemitter}
+
+
+
 ## 子组件通知父组件数据已处理完成 – @Output、EventEmitter {#子组件通知父组件数据已处理完成-outputeventemitter}
 
 子组件向父组件传递参数通过 `EventEmitter`传播通知父组件，使用装饰器`@Output`装饰要传递的参数,创建`EventEmitter`对象,在需要向父组件传递参数的时候使用`EventEmitter`对象将事件传播出去。
