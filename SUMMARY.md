@@ -11,7 +11,7 @@
   * [分页组件](di-er-zhang-gong-neng-mo-kuai/fen-ye-cha-jian.md)
   * [FunsionChart](di-er-zhang-gong-neng-mo-kuai/funsionchart.md)
   * [Angular4 父子组件通信](di-er-zhang-gong-neng-mo-kuai/angular4-fu-zi-zu-jian-tong-xin.md)
-  * [Angular路由](di-er-zhang-gong-neng-mo-kuai/lu-you.md)
   * [HTTP服务](di-er-zhang-gong-neng-mo-kuai/httpfu-wu.md)
+  * [Angular路由](di-er-zhang-gong-neng-mo-kuai/lu-you.md)
   * [依赖注入](di-er-zhang-gong-neng-mo-kuai/yi-lai-zhu-ru.md)
 
