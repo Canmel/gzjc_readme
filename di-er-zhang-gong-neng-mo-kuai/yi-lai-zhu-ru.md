@@ -8,7 +8,7 @@
 
 ## 依赖注入
 
-* 在要注入的组件或服务
+* 在要注入的组件或服务导入`Injectable`,并且使用@Injectable\(\)装饰要注入的类型
 
 ```js
 import {Injectable} from "@angular/core";
