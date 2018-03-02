@@ -1,5 +1,7 @@
 # FunsionChart
 
+---
+
 ## FunsionChart 使用简介
 
 * 在需要使用`Funsioncharts`的`html`页面,使用`fusioncharts`标签,并向`fusioncharts`组件传递参数
