@@ -8,7 +8,7 @@
 
 ### 使用步骤
 
-* 在需要验证的实体类型中添加验证规则。如下用户
+* 在需要验证的实体类型中添加验证规则。如下-用户
 
 ```js
 export const USERVALIDRULE: Object = {
@@ -65,19 +65,19 @@ export const USERVALIDRULE: Object = {
 }
 ```
 
-* 添加完验证规则后需要在待验证的ts中导入相应的规则
+* 添加完验证规则后需要在待验证的`ts`中导入相应的规则
 
 ```js
 import { USERVALIDRULE } from '../entity/user';
 ```
 
-* 在ts初始化或者构造器中添加验证。
+* 在`ts`初始化或者构造器中添加验证。
 
 ```js
 $(".to-valid-form").bootstrapValidator(USERVALIDRULE);
 ```
 
-* 在表单$\(".to-valid-form"\)中就可以实时的以规则USERVALIDRULE验证数据的准确性
+* 在表单`$(".to-valid-form")`中就可以实时的以规则`USERVALIDRULE`验证数据的准确性
 
 * 手动触发验证
 
@@ -90,8 +90,6 @@ $(".to-valid-form").data('bootstrapValidator').validate();
 ```js
 $(".to-valid-form").data('bootstrapValidator').isValid()
 ```
-
-
 
 ---
 
