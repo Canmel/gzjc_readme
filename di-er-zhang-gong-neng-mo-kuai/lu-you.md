@@ -27,5 +27,7 @@
 }
 ```
 
+上述路由创建后，可在浏览器访问根路径下的`maps`路径,即/maps,会调转至由`BaiduMapComponent`组件上，标签`<app-root></app-root>`内替换为`BaiduMapComponent`组件的`html`。
+
 创建子路由可以查看 \[创建子路由\]\([https://segmentfault.com/a/1190000009265310](https://segmentfault.com/a/1190000009265310)\)
 
