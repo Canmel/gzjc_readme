@@ -1,4 +1,6 @@
-# Angular路由
+```
+Angular路由
+```
 
 ## 路由使用简介
 
@@ -26,10 +28,6 @@
         component: BaiduMapComponent        // 组件类型名称
 }
 ```
-
-
-
-
 
 创建子路由可以查看 \[创建子路由\]\([https://segmentfault.com/a/1190000009265310](https://segmentfault.com/a/1190000009265310)\)
 
