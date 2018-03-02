@@ -77,7 +77,7 @@ import { USERVALIDRULE } from '../entity/user';
 $(".to-valid-form").bootstrapValidator(USERVALIDRULE);
 ```
 
-
+* 在表单$\(".to-valid-form"\)中就可以实时的以规则USERVALIDRULE验证数据的准确性
 
 
 
