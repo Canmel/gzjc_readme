@@ -71,5 +71,11 @@ export const USERVALIDRULE: Object = {
 import { USERVALIDRULE } from '../entity/user';
 ```
 
+* 在ts初始化或者构造器中添加验证。
+
+```
+$(".to-valid-form").bootstrapValidator(USERVALIDRULE);
+```
+
 
 
