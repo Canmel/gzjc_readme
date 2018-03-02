@@ -85,7 +85,15 @@ $(".to-valid-form").bootstrapValidator(USERVALIDRULE);
 $(".to-valid-form").data('bootstrapValidator').validate();
 ```
 
-* 验证是否通过
+* 验证是否通过返回布尔值
+
+```js
+$(".to-valid-form").data('bootstrapValidator').isValid()
+```
+
+
+
+---
 
 
 
